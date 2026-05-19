@@ -1,0 +1,20 @@
+2026-05-18 08:23:11 INFO User admin logged in successfully from 192.168.1.10
+2026-05-18 08:45:32 WARNING Failed login attempt for user admin from 192.168.1.105
+2026-05-18 08:45:35 WARNING Failed login attempt for user admin from 192.168.1.105
+2026-05-18 08:45:38 WARNING Failed login attempt for user admin from 192.168.1.105
+2026-05-18 08:45:41 WARNING Failed login attempt for user admin from 192.168.1.105
+2026-05-18 08:45:44 WARNING Failed login attempt for user admin from 192.168.1.105
+2026-05-18 09:12:05 INFO User john logged in successfully from 192.168.1.20
+2026-05-18 09:15:22 WARNING Failed login attempt for user john from 10.0.0.55
+2026-05-18 09:15:25 WARNING Failed login attempt for user john from 10.0.0.55
+2026-05-18 09:15:28 WARNING Failed login attempt for user john from 10.0.0.55
+2026-05-18 02:33:44 WARNING Failed login attempt for user root from 45.33.32.156
+2026-05-18 02:33:47 WARNING Failed login attempt for user root from 45.33.32.156
+2026-05-18 02:33:50 WARNING Failed login attempt for user root from 45.33.32.156
+2026-05-18 02:33:53 WARNING Failed login attempt for user root from 45.33.32.156
+2026-05-18 02:33:56 WARNING Failed login attempt for user root from 45.33.32.156
+2026-05-18 02:33:59 WARNING Failed login attempt for user root from 45.33.32.156
+2026-05-18 02:34:02 WARNING Failed login attempt for user root from 45.33.32.156
+2026-05-18 14:22:10 INFO User sarah logged in successfully from 192.168.1.33
+2026-05-18 14:25:30 INFO User sarah logged out from 192.168.1.33
+2026-05-18 03:15:00 INFO User mike logged in successfully from 172.16.0.99
